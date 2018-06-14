@@ -90,7 +90,7 @@
 
        <div class="logo_container">
             <div class="logo">
-            <img src="css/css/images/logo-mobile.png" alt="" title="" />
+            <img src="css/css/images/logo3.png" alt="" title="" />
             <!-- <h2>Shell</h2> -->
             <span></span>                        
             </div>                     
