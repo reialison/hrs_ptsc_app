@@ -103,7 +103,7 @@
     
 
 
-       <input type="hidden" id="is_finish" value="<?=$finish?>">
+       <!-- <input type="hidden" id="is_finish" value="<?=$finish?>"> -->
        <div data-role="footer">
     <h4 class="banner_footer">Powered by <img class="btm_logo" src="<?=base_url().'img/header_logo_p1.png'?>"></h4>
 
