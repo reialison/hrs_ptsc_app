@@ -12,9 +12,9 @@ $(document).ready(function(){
                     ref.addEventListener('loadstart', function(event) { });
 
                   ref.addEventListener('loadstop', function(event) {        
-                       if (event.url.match("mobile/close")) {
+                       // if (event.url.match("mobile/close")) {
                                ref.close();
-                        }                  
+                        // }                  
                   });               
 
                   //  document.addEventListener("deviceready", onDeviceReady, false);
