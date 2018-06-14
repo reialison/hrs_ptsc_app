@@ -86,7 +86,7 @@
 
 <!-- <div data-role="page" id="homepage"  data-theme="b" class=""> -->
 
-        <div role="main" class="ui-content">
+        <div role="main" class="">
 
        <div class="logo_container">
             <div class="logo">
