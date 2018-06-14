@@ -88,13 +88,13 @@
 
         <div role="main" class="ui-content">
 
-        <!-- <div class="logo_container">
+       <div class="logo_container">
             <div class="logo">
-            <img src="css/css/images/logo3.png'" alt="shell" title="shell" />
-            <h2>Shell</h2>
+            <img src="css/css/images/logo-mobile.png" alt="" title="" />
+            <!-- <h2>Shell</h2> -->
             <span></span>                        
             </div>                     
-        </div> -->
+        </div>
 
     </div>
 
@@ -103,7 +103,7 @@
     
 
 
-       <!-- <input type="hidden" id="is_finish" value="<?=$finish?>"> -->
+       <input type="hidden" id="is_finish" value="<?=$finish?>">
        <div data-role="footer">
     <h4 class="banner_footer">Powered by <img class="btm_logo" src="<?=base_url().'img/header_logo_p1.png'?>"></h4>
 
