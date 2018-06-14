@@ -2,7 +2,7 @@ $(document).ready(function(){
         document.addEventListener("deviceready", onDeviceReady, false);
         function onDeviceReady() {
             if (window.StatusBar) window.StatusBar.hide();
-            base_url ='http://onehrpay.com/hrs_ptsc/mobile_login';
+            base_url ='http://onehrpay.com/hrs_ptsc/login';
             new_address(base_url);
         }
 
